@@ -1,2 +1,2 @@
-# Trace(it)
-helper functions to trace functions calling on Go
+# TraceF(unction)
+Trace functions entering and leaving in Go
